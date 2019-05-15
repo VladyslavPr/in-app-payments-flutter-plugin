@@ -34,7 +34,7 @@ android {
     compileSdkVersion sqipCompileSdkVersion
 
     defaultConfig {
-        minSdkVersion 21
+        minSdkVersion 19
         targetSdkVersion sqipTargetSdkVersion
     }
     lintOptions {
